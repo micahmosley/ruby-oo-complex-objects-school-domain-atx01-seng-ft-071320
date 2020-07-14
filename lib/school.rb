@@ -20,4 +20,7 @@ class School
     @roster[num]
   end 
   
+  def sort 
+    @roster.sort 
+  end 
 end 
